@@ -11,6 +11,6 @@
 # couchdb
 
 # https://github.com/supermansrf/ohif-orthanc-postgres-docker
-ohif/viewer:v3.7.1.10058
+# ohif/viewer:v3.7.1.10058
 osimis/orthanc:20.2.0
-postgres:12.1
+# postgres:12.1
